@@ -6,8 +6,8 @@
 body{
 	background: linear-gradient(to right, navy, tomato);
 	color: #fff;
+	text-align: center;
 }
 .footer{
 	margin: 80vh 0 0 0px;
-	text-align: center;
 }
